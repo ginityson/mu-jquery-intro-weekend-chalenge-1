@@ -26,7 +26,7 @@ $(document).ready(function () {
 
     console.log(salaryTotal);
 
-    // append to DOM
+    // append to DOM DOM
     monthlyTotal(salaryTotal);
     appendDom(values);
   });
